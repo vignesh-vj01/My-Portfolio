@@ -1,0 +1,76 @@
+[
+  {
+    "name": "HTML5",
+    "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+  },
+  {
+    "name": "CSS3",
+    "icon": "https://img.icons8.com/color/48/000000/css3.png"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+  },
+  {
+    "name": "Python",
+    "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+  },
+  {
+    "name": "Java",
+    "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+  },
+
+  {
+    "name": "MySQL",
+    "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+  },
+  {
+    "name": "PHP",
+    "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+  },
+  {
+    "name": "ReactJS",
+    "icon": "https://img.icons8.com/color/48/000000/react-native.png"
+  },
+  {
+    "name": "Bootstrap",
+    "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+  },
+  {
+    "name": "Git",
+    "icon": "https://img.icons8.com/?size=100&id=20906&format=png&color=000000"
+  },
+  {
+    "name": "GitHub",
+    "icon": "https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=FFFFFF"
+  },
+  {
+    "name": "VS Code",
+    "icon": "https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000"
+  },
+  {
+    "name": "Canva",
+    "icon": "https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000"
+  },
+
+  {
+    "name": "Adobe Photoshop",
+    "icon": "https://img.icons8.com/?size=100&id=YkX1bX1nYJ5O&format=png&color=000000"
+  },
+  {
+    "name": "Adobe Illustrator",
+    "icon": "https://img.icons8.com/?size=100&id=Zz4mX6mXG3pE&format=png&color=000000"
+  },
+  {
+    "name": "Adobe Premiere Pro",
+    "icon": "https://img.icons8.com/?size=100&id=1mX1bX1nYJ5O&format=png&color=000000"
+  },
+  {
+    "name": "Adobe After Effects",
+    "icon": "https://img.icons8.com/?size=100&id=2mX1bX1nYJ5O&format=png&color=000000"
+  },
+  {
+    "name": "Figma",
+    "icon": "https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000"
+  }
+]
