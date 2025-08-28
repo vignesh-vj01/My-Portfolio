@@ -76,7 +76,7 @@
             <li><strong>MongoDB</strong>: (for storing articles dynamically).</li>
         </ul>
         <h2>🎯 Live Project</h2>
-        <p>🔗 <strong>Live URL</strong>: <a href="[https://my-portfolio-vignrshs-projects.vercel.app/]">Vignesh's Portfolio</a></p>
+        <p>🔗 <strong>Live URL</strong>: <a href="https://my-portfolio-vignrshs-projects.vercel.app/">Vignesh's Portfolio</a></p>
         
 
 ---
