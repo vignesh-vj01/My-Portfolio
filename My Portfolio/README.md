@@ -2,7 +2,7 @@
 ---
 <body>
     <div class="container">
-        <h1>🚀 Welcome to Saurabh's Portfolio - GitHub Repository</h1>
+        <h1>🚀 Welcome to Vignesh's Portfolio - GitHub Repository</h1>
         <h2>🌟 Project Overview</h2>
         <p>Welcome to the repository for Saurabh's Portfolio—a fully responsive personal portfolio website built using HTML, CSS, and JavaScript. This project is 80% complete, and I'm looking for a collaborator proficient in these technologies to help finalize the remaining sections.</p>
         <h2>🔥 Features</h2>
@@ -62,7 +62,7 @@
         <ul>
             <li>"Thank You" message.</li>
             <li>Quick links, contact info, and social media links.</li>
-            <li>Copyright notice: © 2024 Saurabh's Portfolio. All rights reserved.</li>
+            <li>Copyright notice: © 2025 Vignesh's Portfolio. All rights reserved.</li>
         </ul>
 
         
@@ -76,30 +76,8 @@
             <li><strong>MongoDB</strong>: (for storing articles dynamically).</li>
         </ul>
         <h2>🎯 Live Project</h2>
-        <p>🔗 <strong>Live URL</strong>: <a href="https://www.gu-saurabh.tech/">Saurabh's Portfolio</a></p>
+        <p>🔗 <strong>Live URL</strong>: <a href="https://www.">Vignesh's Portfolio</a></p>
         
-## 🎨 **Screenshots**
-| Desktop View | Mobile View |
-|-------------|------------|
-| ![Desktop Screenshot](assets/images/screenshot/1.jpeg) | ![Mobile Screenshot](assets/images/screenshot/11.png) |
-|About Section|
-| ![Desktop Screenshot](assets/images/screenshot/2.png) | ![Mobile Screenshot](assets/images/screenshot/12.png) |
-|Skills Section|
-| ![Desktop Screenshot](assets/images/screenshot/3.png) | ![Mobile Screenshot](assets/images/screenshot/13.png) |
-|Prpjects Section|
-| ![Desktop Screenshot](assets/images/screenshot/4.png) | ![Mobile Screenshot](assets/images/screenshot/14.png) |
-|Experience Section|
-| ![Desktop Screenshot](assets/images/screenshot/5.png) | ![Mobile Screenshot](assets/images/screenshot/15.png) |
-|Education Section|
-| ![Desktop Screenshot](assets/images/screenshot/6.png) | ![Mobile Screenshot](assets/images/screenshot/16.png) |
-|Articles & Blog Section|
-| ![Desktop Screenshot](assets/images/screenshot/7.png) | ![Mobile Screenshot](assets/images/screenshot/17.png) |
-|Awards & Achievement Section|
-| ![Desktop Screenshot](assets/images/screenshot/8.png) | ![Mobile Screenshot](assets/images/screenshot/18.png) |
-|Contact Form|
-| ![Desktop Screenshot](assets/images/screenshot/9.png) | ![Mobile Screenshot](assets/images/screenshot/19.png) |
-|Footer Section|
-| ![Desktop Screenshot](assets/images/screenshot/10.png) | ![Mobile Screenshot](assets/images/screenshot/20.png) |
 
 ---
  <h2>📥 How to Contribute</h2>
